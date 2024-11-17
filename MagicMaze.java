@@ -1,10 +1,3 @@
-
-/** Anna Del Negro
- *  COP3503 Computer Science 2
- *  Programming Assignment 2
- *  Spring 2024
- */
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
